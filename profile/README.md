@@ -1,7 +1,7 @@
 # 🌐 The MATRIX Collab 
 
 <p align="center">
-  <img src="Matrix_Wallpaper" alt="Matrix Logo" width="200">
+  <img src="Matrix_Wallpaper" alt="Matrix Logo">
 </p>
 
 Welcome to **The MATRIX Collab**, a collaborative space for tech enthusiasts within the **Matrix Software Development Club**. Our organization is dedicated to fostering innovation, problem-solving, and continuous learning through hands-on software development projects.
