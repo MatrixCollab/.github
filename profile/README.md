@@ -1,7 +1,7 @@
 # 🌐 The MATRIX Collab 
 
 <p align="center">
-  <img src="Matrix_Wallpaper" alt="Matrix Logo">
+  <img src="[Matrix_Wallpaper](https://github.com/MatrixCollab/.github/blob/2e8f57efb4aca7253a6c9185ab9d9e9ded7b0106/Matrix_Wallpaper)" alt="Matrix Logo">
 </p>
 
 Welcome to **The MATRIX Collab**, a collaborative space for tech enthusiasts within the **Matrix Software Development Club**. Our organization is dedicated to fostering innovation, problem-solving, and continuous learning through hands-on software development projects.
